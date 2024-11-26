@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react'
-import { Menu, Rocket, Wallet, ChevronDown } from 'lucide-react'
+import { useState, useEffect } from 'react'
+import { Menu, Rocket, Wallet } from 'lucide-react'
 import { cn } from "@/lib/utils"
 import { Button } from "@/components/ui/button"
 import {
