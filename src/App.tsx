@@ -10,9 +10,7 @@ function App() {
   return (
     <>
       <Navbar />
-      <main>
-        <Hero />
-      </main>
+      <Hero />
       <Footer/>
     </>
   )
